@@ -4,6 +4,10 @@
 
 A simple Mac app for testing SRT subtitle files. Built for developers and creators who generate subtitles and want to quickly preview how they'll look and sync with their video or audio before delivering to users.
 
+## Installation
+
+Download `Compiled App.zip` from this repo, unzip it, and run. No Xcode required.
+
 ## Usage
 
 1. Drag a video or audio file onto the left drop zone (MP4, MOV, MP3, WAV, AIFF)
